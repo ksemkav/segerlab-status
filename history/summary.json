@@ -40,17 +40,19 @@
     "url": "https://dev.segerlab.ru/",
     "icon": "https://icons.duckduckgo.com/ip3/dev.segerlab.ru.ico",
     "slug": "segerlab-dev",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "98.75%",
+    "uptimeDay": "98.75%",
+    "uptimeWeek": "98.75%",
+    "uptimeMonth": "98.75%",
+    "uptimeYear": "98.75%",
     "time": 801,
     "timeDay": 801,
     "timeWeek": 801,
     "timeMonth": 801,
     "timeYear": 801,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-03-12": 0
+    }
   }
 ]
