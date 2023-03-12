@@ -7,6 +7,8 @@ sites:
     url: https://segerlab.ru/
   - name: Segerlab Logs
     url: https://log.segerlab.ru/
+  - name: Segerlab DEV
+    url: https://dev.segerlab.ru/
 
 status-website:
   baseUrl: /segerlab-status
