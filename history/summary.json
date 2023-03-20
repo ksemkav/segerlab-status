@@ -5,19 +5,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/segerlab.ru.ico",
     "slug": "segerlab",
     "status": "up",
-    "uptime": "99.90%",
-    "uptimeDay": "99.30%",
-    "uptimeWeek": "99.90%",
-    "uptimeMonth": "99.90%",
-    "uptimeYear": "99.90%",
-    "time": 1006,
-    "timeDay": 1019,
-    "timeWeek": 1006,
-    "timeMonth": 1006,
-    "timeYear": 1006,
-    "dailyMinutesDown": {
-      "2023-03-19": 10
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 1019,
+    "timeDay": 1146,
+    "timeWeek": 1113,
+    "timeMonth": 1019,
+    "timeYear": 1019,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Segerlab Logs",
@@ -25,19 +23,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/log.segerlab.ru.ico",
     "slug": "segerlab-logs",
     "status": "up",
-    "uptime": "99.90%",
-    "uptimeDay": "99.33%",
-    "uptimeWeek": "99.90%",
-    "uptimeMonth": "99.90%",
-    "uptimeYear": "99.90%",
-    "time": 1479,
-    "timeDay": 1636,
-    "timeWeek": 1479,
-    "timeMonth": 1479,
-    "timeYear": 1479,
-    "dailyMinutesDown": {
-      "2023-03-19": 10
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 1540,
+    "timeDay": 2047,
+    "timeWeek": 1758,
+    "timeMonth": 1540,
+    "timeYear": 1540,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Segerlab DEV",
@@ -50,11 +46,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1071,
-    "timeDay": 1052,
-    "timeWeek": 1071,
-    "timeMonth": 1071,
-    "timeYear": 1071,
+    "time": 1079,
+    "timeDay": 1159,
+    "timeWeek": 1111,
+    "timeMonth": 1079,
+    "timeYear": 1079,
     "dailyMinutesDown": {}
   }
 ]
