@@ -24,7 +24,7 @@
     "url": "https://log.segerlab.ru/",
     "icon": "https://icons.duckduckgo.com/ip3/log.segerlab.ru.ico",
     "slug": "segerlab-logs",
-    "status": "up",
+    "status": "down",
     "uptime": "99.89%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.79%",
@@ -36,6 +36,7 @@
     "timeMonth": 1878,
     "timeYear": 1780,
     "dailyMinutesDown": {
+      "2023-04-18": 0,
       "2023-04-15": 21,
       "2023-03-27": 39
     }
