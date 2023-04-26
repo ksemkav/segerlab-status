@@ -24,10 +24,10 @@
     "url": "https://log.segerlab.ru/",
     "icon": "https://icons.duckduckgo.com/ip3/log.segerlab.ru.ico",
     "slug": "segerlab-logs",
-    "status": "up",
+    "status": "down",
     "uptime": "99.91%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "99.86%",
     "uptimeYear": "99.91%",
     "time": 1753,
@@ -36,6 +36,7 @@
     "timeMonth": 1861,
     "timeYear": 1753,
     "dailyMinutesDown": {
+      "2023-04-26": 1,
       "2023-04-15": 21,
       "2023-03-27": 39
     }
@@ -45,9 +46,9 @@
     "url": "https://dev.segerlab.ru/",
     "icon": "https://icons.duckduckgo.com/ip3/dev.segerlab.ru.ico",
     "slug": "segerlab-dev",
-    "status": "up",
+    "status": "down",
     "uptime": "99.96%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.94%",
     "uptimeYear": "99.96%",
@@ -57,6 +58,7 @@
     "timeMonth": 990,
     "timeYear": 1014,
     "dailyMinutesDown": {
+      "2023-04-26": 0,
       "2023-03-27": 27
     }
   }
