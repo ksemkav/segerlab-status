@@ -1,7 +1,7 @@
 url: https://dev.segerlab.ru/
-status: up
-code: 200
-responseTime: 1429
-lastUpdated: 2023-07-20T11:47:34.397Z
+status: down
+code: 502
+responseTime: 2454
+lastUpdated: 2023-07-20T22:17:59.683Z
 startTime: Sun Mar 12 2023 18:59:31 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
