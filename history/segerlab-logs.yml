@@ -1,7 +1,7 @@
 url: https://log.segerlab.ru/
 status: down
-code: 0
-responseTime: 0
-lastUpdated: 2024-02-20T21:27:29.401Z
+code: 502
+responseTime: 4255
+lastUpdated: 2024-02-20T23:13:26.123Z
 startTime: 2023-03-12T18:43:14.000Z
 generator: Upptime <https://github.com/upptime/upptime>
